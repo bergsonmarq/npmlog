@@ -17,12 +17,11 @@
   "dependencies": {
     "are-we-there-yet": "~1.1.2",
     "console-control-strings": "~1.1.0",
-    "gauge": "~2.7.3",
+    "gauge": "^5.0.0",
     "set-blocking": "~2.0.0"
   },
   "devDependencies": {
-    "standard": "~7.1.2",
-    "tap": "~5.7.3"
+    "tap": "16.3.9"
   },
   "license": "ISC"
 }
